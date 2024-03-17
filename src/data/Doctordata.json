@@ -1,0 +1,43 @@
+
+[{
+    "first_title":"ENT",
+    "last_title":"Specialist",
+    "color":"#DCDCDC",
+    "id":"1",
+    "desc":"treating disorders and other issues  head and neck"
+},
+{
+    "first_title":"Specialist",
+    "last_title":"Endocrinologis",
+    "color":"#7FFFD4",
+    "id":"2",
+    "desc":"Patients withdiabetes andthyroid issues are treated"
+},
+{
+    "first_title":"Specialist",
+    "last_title":"Oncologists",
+    "color":"#FFE4C4",
+    "id":"3",
+    "desc":"examine, diagnose,and treat cancer"
+},
+{
+    "first_title":"Specialist",
+    "last_title":"Pulmonologist",
+    "color":"#7FFFD4",
+    "id":"4",
+    "desc":"treating diseases of the respiratory system in both men and women"
+},
+{
+    "first_title":"Specialist",
+    "last_title":"Veterinarian",
+    "color":"#FFE4C4",
+    "id":"5",
+    "desc":"treats diseases,problems, and injuries in humans."
+},
+{
+    "first_title":"Specialist",
+    "last_title":"Radiologist",
+    "color":"#DCDCDC",
+    "id":"6",
+    "desc":"treat diseases in both humans"
+}]

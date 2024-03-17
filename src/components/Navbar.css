@@ -1,0 +1,11 @@
+@media only screen and (max-width: 1022.72px) {
+   .cols{
+    visibility: hidden;
+   }
+  }
+
+  @media only screen and (max-width: 454.40px) {
+    .dt{
+     font-size: 1.rem;
+    }
+   }

@@ -1,0 +1,11 @@
+.poly{
+    width: 600px;
+    height: 440px;
+    aspect-ratio: 1;
+    clip-path: polygon(26% 0, 80% 0%, 85% 39%, 100% 80%, 84% 97%, 2% 100%, 23% 54%, 0% 20%);
+}
+
+.box{
+    background: rgb(13,171,136);
+    background: linear-gradient(0deg, rgba(13,171,136,0.41957293171174714) 0%, rgba(2,78,82,0.9713936600030637) 100%);
+}
