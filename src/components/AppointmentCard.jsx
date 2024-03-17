@@ -17,14 +17,15 @@ function AppointmentCard() {
     {
       toast.error("Fill all the fields");
     }
-    if(!validate(mail))
+    else if(!validate(mail))
     {
       toast.error("Enter right e-mail..!");
     }
-    if(phone.length<10)
+    else if(phone.length<10)
     {
       toast.error("Enter right Phonenumber..!");
     }
+    else
     {
       toast.success("Appointment bookes successfully.!")
     }
